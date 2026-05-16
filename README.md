@@ -1,63 +1,89 @@
 <div align="center">
 
-# ━ ✦ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ✦ ━
+  <!-- Typing Animation Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Shravya+%F0%9F%91%8B;AI+Engineering+Student+@+SVNIT;Full-Stack+Web+%26+App+Developer" alt="Typing SVG" />
 
-## 𝕊𝕙𝕣𝕒𝕧𝕪𝕒
-**AI Engineering Student | Full-Stack Developer**
-<p>📍 B.Tech (2024–2028) @ SVNIT, Surat</p>
+  <p><b>Artificial Intelligence Engineering | B.Tech 2024–2028</b></p>
+  <p>Sardar Vallabhbhai National Institute of Technology, Surat</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravya-patel)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shravyapatel2806@gmail.com)
+  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
 ---
 
-### ꕥ 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒
-> *I am a student and software developer focusing on full-stack web and Android development. I also spend time experimenting with local LLMs and RAG architectures. On campus, I actively help organize technical events and hackathons.*
+### 🎛️ Profile Control Panel
 
-<br>
+<table width="100%">
+  <tr>
+    <!-- About Card -->
+    <td width="50%" valign="top">
+      <h4><b>👤 Core Profile</b></h4>
+      I am a software developer specializing in full-stack web architectures and native Android applications. My current focus centers on building scalable microservices and experimenting with local LLM configurations via RAG pipelines. On campus, I lead operations for large-scale technical experiences.
+    </td>
+    <!-- Stack Card -->
+    <td width="50%" valign="top">
+      <h4><b>🛠️ System Stack</b></h4>
+      • <b>Languages:</b> Python, Java, SQL <br>
+      • <b>Frameworks:</b> Spring Boot, Django, React.js <br>
+      • <b>Mobile:</b> Android (Jetpack Compose), SQLite <br>
+      • <b>Architecture:</b> Microservices, RabbitMQ, RAG Pipelines
+    </td>
+  </tr>
+</table>
 
-### 📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
+---
+
+### 🚀 Production Repositories
+
+<table width="100%">
+  <!-- Row 1 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h5><b>🏋️‍♂️ <a href="https://github.com/shravyapatel2803/FitnessProject">AI Fitness Tracking System</a></b></h5>
+      <p>Distributed microservices ecosystem built with <code>Spring Boot</code> and <code>RabbitMQ</code>. Processes real-time health metrics to dynamically generate personalized fitness regimens and proactive physical safety guidelines using the <code>Gemini API</code>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h5><b>🧠 <a href="https://github.com/aayush-decoder/NeuroLens">SecureRAG (NeuroLens)</a></b></h5>
+      <p>Award-winning localized document intelligence platform. Utilizes a <code>React</code> frontend communicating with sandboxed <code>Local LLMs</code> to enable fully private, secure semantic search and chat over indexed PDF files.</p>
+    </td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h5><b>☕ <a href="https://rabuste-coffee-user.vercel.app/">Rabuste Coffee (GSSoC)</a></b></h5>
+      <p>High-fidelity 3D interactive coffee shop web storefront developed as an open-source contributor during the GirlScript Summer of Code framework. Built utilizing <code>React.js</code>, <code>Tailwind CSS</code>, and <code>Three.js</code>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h5><b>🧾 <a href="https://github.com/shravyapatel2803/android_app">Jewelry Bill Generator</a></b></h5>
+      <p>Lightweight, performance-optimized native mobile invoicing utility engineered for local business workflows. Implements a <code>Java</code> core layer coupled with <code>SQLite</code> for zero-latency local data persistence.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Real-Time Analytics
+
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=shravyapatel2803&theme=transparent&hide_border=true)](https://github.com/shravyapatel2803)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=shravyapatel2803&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravyapatel2803&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
 </div>
-
-<br>
-
-### 🛠️ 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-</p>
-
-<br>
-
-### 🚀 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓭 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼
-
-✦ **[AI-Powered Fitness Tracking System](https://github.com/shravyapatel2803/FitnessProject)**
-> A microservices application built with Spring Boot, RabbitMQ, and the Gemini API to provide personalized workout recommendations and safety guidelines.
-
-✦ **[SecureRAG (NeuroLens)](https://github.com/aayush-decoder/NeuroLens)**
-> An award-winning web application built with React and LLMs that allows users to chat with PDF documents securely.
-
-✦ **[Rabuste Coffee (GSSoC)](https://rabuste-coffee-user.vercel.app/)**
-> Developed the frontend for the Rabuste Coffee project during GirlScript Summer of Code, utilizing React.js, Tailwind CSS, and Three.js.
-
-✦ **[Jewelry Bill Generator](https://github.com/shravyapatel2803/android_app)**
-> A native Android application (Java/SQLite) for generating and managing invoices.
-
-<br>
 
 ---
 
-### 🤝 𝓒𝓸𝓶𝓶𝓾𝓷𝓲𝓽𝔂 & 𝓛𝓮𝓪𝓭𝓮𝓻𝓼𝓱𝓲𝓹
+### 🌐 Organization & Leadership
 
-* 🏆 **Technical Executive:** Mindbend (SVNIT Techno-managerial festival)
-* 🎤 **Event Organizer:** GDGC SVNIT (Managed events like Hack the Tank)
+<table width="100%">
+  <tr>
+    <td>
+      <b>Mindbend (SVNIT Techno-managerial Festival)</b><br>
+      <code>Technical Executive</code> — Responsible for designing core technical events and managing festival engineering infrastructure.
+    </td>
+    <td>
+      <b>GDGC SVNIT (Hack the Tank Hackathon)</b><br>
+      <code>Event Organizer</code> — Structured layout parameters, managed logistical coordinate maps, and synchronized engineering team workflows.
+    </td>
+  </tr>
+</table>
