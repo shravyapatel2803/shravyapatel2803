@@ -18,6 +18,15 @@
 
 <br>
 
+### 📊 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=shravyapatel2803&theme=transparent&hide_border=true)](https://github.com/shravyapatel2803)
+
+</div>
+
+<br>
+
 ### 🛠️ 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
